@@ -8,3 +8,10 @@ The project is done with controllers and api.
 
 
 ##I have also executed all the sql command for creating the database. I have also published the app in Azure web app. 
+
+# How to run this app? 
+-- just install nodejs to your machine. 
+-- install the dependency expressjs thats it.
+# How to install with npm
+Run the command to the terminal 
+-- npm install express 
