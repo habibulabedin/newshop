@@ -1,5 +1,5 @@
 ﻿# This assignment is done for course purpose. 
-This web api use is a simple api with mssql database connection with expressjs and nodejs. 
+This web api is a simple api with mssql database connection with expressjs and nodejs. 
 You may nevigate between the database tables with the following url. ...../table name. 
 Suppose, you want to have the information of the Address table and the localhost server is running on the port no 5000. 
 The home page is the root directory. If you want to fetch the overview of any table just type the table name after '/' symbol.It will show you the table data with json format. 
